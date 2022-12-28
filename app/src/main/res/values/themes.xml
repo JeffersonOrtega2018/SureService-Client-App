@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SureService" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#B5B5B5</item>
+    </style>
+</resources>
